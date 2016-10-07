@@ -25,7 +25,6 @@ class ControlCenter {
             continueStraightOrRotate(myRobot)
         }
 
-        
         // Step 2.1c
         // TODO: Save the return value of checkWalls() to a constant called myWallInfo.
         
